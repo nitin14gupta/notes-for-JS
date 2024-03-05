@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+body{background :#fbf1f9;}
+h1{color: #7E4B8B;
+    font-family: "Poppins","Times New Roman", Times, serif;
+    text-align: center;
+    height: 80px;
+    width: 100%;
+    font-size: 60px;
+    line-height: 80px;
+    font-weight: 900;
+    margin-top: 40px;
+}
+.play12{
+    text-align: center;
+    margin: 50px;
+    font-size: 150x;
+}
+#player2{
+    margin-left: 100px;  
+}
+
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: #f8ccf9;
+    border: 10px solid black;
+    border-radius: 10px;
+    box-shadow: -1rem 1rem 0rem 0rem #aaaaaa;
+    text-align: center;
+    margin-left: 38rem;
+    margin-bottom: 40px;
+}
+
+.container button{
+    height: 83px;
+    width: 83px;
+    margin: 3px;
+    margin-top: 11px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: -0.2rem 0.2rem 0rem 0rem #aaaaaa;
+    cursor: pointer;
+    font-size: 60px;
+    color: rgb(black);
+    z-index: 1;
+    background-color: aliceblue;
+}
+
+.reset-butn{
+    height: 56px;
+    width: 127px;
+    line-height: 37px;
+    border-radius: 30px;
+    border: 1px solid black;
+    background: #f8ccf9;
+    box-shadow: 0rem 1rem 3rem 1rem #7e4b8b;
+    text-align: center;
+    margin-left: 689px;
+}
